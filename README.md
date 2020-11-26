@@ -15,7 +15,7 @@
 
 <ul>
   <li>Tumblr: (https://artbookzeta.tumblr.com/)</li>
-  <li>GitHub: (https://zevaztian33.github.io/MiPortafolio/)</li>
+  <li>:octocat:: (https://zevaztian33.github.io/MiPortafolio/)</li>
 </ul>
 <hr>
 
