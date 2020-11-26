@@ -11,7 +11,7 @@
   <li>Adobe Illustrator :white_check_mark: </li>
 </ol>
 
-**:large_orange_diamond: Portafolio :briefcase:**
+**:large_orange_diamond: Portafolio: :briefcase:**
 
 <ul>
   <li>Tumblr: (https://artbookzeta.tumblr.com/)</li>
