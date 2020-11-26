@@ -2,20 +2,20 @@
 **Sebastian Araos desde aquí!**
 <p>Diseñador gráfico de profesión :black_nib: e ilustrador infantil de corazón :pencil2: en mis tiempos de ocio me dedico a capturar Pokémon :joystick: </p>
 
-**Conocimientos Diseño/Ilustración:**
+**:large_orange_diamond: Conocimientos Diseño/Ilustración:**
 
 <ol>
   <li>Adobe Photoshop :white_check_mark: </li>
   <li>Adobe Illustrator :white_check_mark: </li>
 </ol>
 
-**Portafolio :briefcase:**
+**:large_orange_diamond: Portafolio :briefcase:**
 
 <ul>
   <li>Tumblr: (https://artbookzeta.tumblr.com/)</li>
   <li>GitHub: (https://zevaztian33.github.io/MiPortafolio/)</li>
 </ul>
-
+<hr>
 **Front-End... (en proceso) :construction:**
 <p>En la actualidad estoy en un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
 
@@ -30,7 +30,7 @@
   <li>Vue: <img align="center" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></li>
 </ul>
 
-<img align="center" alt="" width="75%" src="https://3.bp.blogspot.com/-co9IzI0I4mI/XGS3iyQi1sI/AAAAAAAAFo4/RhLWOcJeBvE3XzBIy8akSmTZ5TTGgRJEwCLcBGAs/s1600/maxresdefault.jpg" />
-
-**Contacto :email:**
+<img align="center" alt="" width="100%" src="https://3.bp.blogspot.com/-co9IzI0I4mI/XGS3iyQi1sI/AAAAAAAAFo4/RhLWOcJeBvE3XzBIy8akSmTZ5TTGgRJEwCLcBGAs/s1600/maxresdefault.jpg" />
+<hr>
+**:large_orange_diamond: Contacto: :email:**
 <p>Email: s.araos.olguin@gmail.com</p>
