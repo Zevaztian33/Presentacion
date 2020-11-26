@@ -4,12 +4,12 @@
 <br>
 
 **Conocimientos Design/Illustration**
-<img align="left" height="24" src="https://toppng.com/uploads/preview/photoshop-cs6-vector-logo-11574280317edcz0mgwqy.png">
-<img align="left" height="24" src="https://assets.stickpng.com/thumbs/586d7feb25738d9f2d793e96.png">
+:white_check_mark: - Adobe Photoshop
+:white_check_mark: - Adobe Illustrator
 
 **Front-End (en proceso)**
 <p>En la actualidad estoy en un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
-<img align="left" alt="" width="50%" src="https://3.bp.blogspot.com/-co9IzI0I4mI/XGS3iyQi1sI/AAAAAAAAFo4/RhLWOcJeBvE3XzBIy8akSmTZ5TTGgRJEwCLcBGAs/s1600/maxresdefault.jpg" />
+<img align="left" alt="" width="75%" src="https://3.bp.blogspot.com/-co9IzI0I4mI/XGS3iyQi1sI/AAAAAAAAFo4/RhLWOcJeBvE3XzBIy8akSmTZ5TTGgRJEwCLcBGAs/s1600/maxresdefault.jpg" />
 <hr>
 
 **Conocimientos Front-End**  
