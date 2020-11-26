@@ -5,13 +5,13 @@
 **Conocimientos Design/Illustration**
 
 <ol>
-  <li>:white_check_mark: - Adobe Photoshop</li>
-  <li>:white_check_mark: - Adobe Illustrator</li>
+  <li>Adobe Photoshop :white_check_mark: </li>
+  <li>Adobe Illustrator :white_check_mark: </li>
 </ol>
 
 **Front-End (en proceso)**
 <p>En la actualidad estoy en un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
-<img align="center" alt="" width="50%" src="https://3.bp.blogspot.com/-co9IzI0I4mI/XGS3iyQi1sI/AAAAAAAAFo4/RhLWOcJeBvE3XzBIy8akSmTZ5TTGgRJEwCLcBGAs/s1600/maxresdefault.jpg" />
+<img align="left" alt="" width="50%" src="https://3.bp.blogspot.com/-co9IzI0I4mI/XGS3iyQi1sI/AAAAAAAAFo4/RhLWOcJeBvE3XzBIy8akSmTZ5TTGgRJEwCLcBGAs/s1600/maxresdefault.jpg" />
 
 **Conocimientos Front-End**  
 <img align="left" height="24" src="https://toppng.com/uploads/preview/photoshop-cs6-vector-logo-11574280317edcz0mgwqy.png">
