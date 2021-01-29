@@ -19,9 +19,9 @@
 </ul>
 <hr>
 
-**:large_blue_diamond: Front-End... (en proceso) :construction:**
+**:large_blue_diamond: Front-End :construction:**
 
-<p>En la actualidad estoy en un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
+<p>En la actualidad termine un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
 
  **:large_blue_diamond: Conocimientos Front-End:**
 
