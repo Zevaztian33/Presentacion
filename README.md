@@ -21,7 +21,7 @@
 
 **:large_blue_diamond: Front-End :construction:**
 
-<p>En la actualidad termine un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
+<p>En la actualidad terminé un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
 
  **:large_blue_diamond: Conocimientos Front-End:**
 
