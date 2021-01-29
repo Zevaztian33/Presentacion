@@ -4,7 +4,7 @@
 
 <p>Diseñador gráfico de profesión :black_nib: e ilustrador infantil de corazón :pencil2: en mis tiempos de ocio me dedico a capturar Pokémon :joystick: </p>
 
-**:large_orange_diamond: Conocimientos Diseño/Ilustración:**
+**:large_orange_diamond: Conocimientos en Diseño/Ilustración:**
 
 <ol>
   <li>Adobe Photoshop :white_check_mark: </li>
