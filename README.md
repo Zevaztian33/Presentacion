@@ -23,7 +23,7 @@
 
 <p>En la actualidad terminé un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
 
- **:large_blue_diamond: Conocimientos Front-End:**
+ **:large_blue_diamond: Conocimientos en Front-End:**
 
 <ul align="left" width="50%">
   <li>Visual Studio Code: <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></li>
