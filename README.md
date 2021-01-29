@@ -19,7 +19,7 @@
 </ul>
 <hr>
 
-**:large_blue_diamond: Front-End :construction:**
+**:large_blue_diamond: Front-End :computer:**
 
 <p>En la actualidad terminé un curso intensivo de Front-End :computer: ... (impartido por Desafío Latam (Santiago de Chile))
 
