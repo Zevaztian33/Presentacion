@@ -9,6 +9,8 @@
 <ol>
   <li>Adobe Photoshop :white_check_mark: </li>
   <li>Adobe Illustrator :white_check_mark: </li>
+  <li>Adobe XD :white_check_mark: </li>
+  <li>Figma :white_check_mark: </li>
 </ol>
 
 **:large_orange_diamond: Portafolio: :briefcase:**
